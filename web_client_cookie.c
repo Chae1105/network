@@ -200,18 +200,18 @@ try_reconnect:
             return 1;
         }
         if (FD_ISSET(server, &reads)) {
-            int bytes_received = recv(server, p, end - p, 0);
-            if (bytes_received < 1) {
-                if (encoding == connection && body) {
-                    printf("%.*s", (int)(end - body), body);
-                }
+		if(fp) {
+			int bytes_received = recv(server, p, end - p, 0);
+			if (bytes_received < 1) {
+                		if (encoding == connection && body) {
+                    		printf("%.*s", (int)(end - body), body);
+                		}
             
-                printf("\nConnection closed by peer.\n");
-				goto try_reconnect;
-            }
+                		printf("\nConnection closed by peer.\n");
+					goto try_reconnect;
+            		}	
+		}
             
-            /*printf("Received (%d bytes): '%.*s’”,
-                    bytes_received, bytes_received, p);*/
             p += bytes_received;
             *p = 0;
             if (!body && (body = strstr(response, "\r\n\r\n"))) {

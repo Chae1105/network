@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1639726197,,"wq"
+|2,0,1639751572,,"wq"
 :q
-|2,0,1639725198,,"q"
+|2,0,1639740058,,"q"
 :q1
 |2,0,1639725163,,"q1"
 :q!
@@ -37,36 +37,146 @@
 # Registers:
 
 # File marks:
-'0  293  0  ~/web_client_cookie.c
-|4,48,293,0,1639726197,"~/web_client_cookie.c"
-'1  262  0  ~/web_server.c
-|4,49,262,0,1639725841,"~/web_server.c"
-'2  1  0  /network_programming
-|4,50,1,0,1639725198,"/network_programming"
-'3  293  0  /web_client_cookie.c
-|4,51,293,0,1639725163,"/web_client_cookie.c"
-'4  1  0  /web_server.c
-|4,52,1,0,1639725096,"/web_server.c"
-'5  293  0  /web_client_cookie.c
-|4,53,293,0,1639724158,"/web_client_cookie.c"
-'6  262  0  /web_server.c
-|4,54,262,0,1639724043,"/web_server.c"
-'7  262  0  /web_server.c
-|4,55,262,0,1639724043,"/web_server.c"
-'8  262  0  /web_server.c
-|4,56,262,0,1639723988,"/web_server.c"
-'9  262  0  /web_server.c
-|4,57,262,0,1639723988,"/web_server.c"
+'0  215  11  ~/web_client_cookie.c
+|4,48,215,11,1639751572,"~/web_client_cookie.c"
+'1  107  7  ~/web_client_cookie.c
+|4,49,107,7,1639744960,"~/web_client_cookie.c"
+'2  107  7  ~/web_client_cookie.c
+|4,50,107,7,1639744960,"~/web_client_cookie.c"
+'3  293  0  ~/web_client_cookie.c
+|4,51,293,0,1639740058,"~/web_client_cookie.c"
+'4  293  0  ~/web_client_cookie.c
+|4,52,293,0,1639740058,"~/web_client_cookie.c"
+'5  293  0  ~/web_client_cookie.c
+|4,53,293,0,1639740058,"~/web_client_cookie.c"
+'6  293  0  ~/web_client_cookie.c
+|4,54,293,0,1639740058,"~/web_client_cookie.c"
+'7  262  0  ~/web_server.c
+|4,55,262,0,1639732627,"~/web_server.c"
+'8  293  0  ~/web_client_cookie.c
+|4,56,293,0,1639726197,"~/web_client_cookie.c"
+'9  293  0  ~/web_client_cookie.c
+|4,57,293,0,1639726197,"~/web_client_cookie.c"
 
 # Jumplist (newest first):
+-'  215  11  ~/web_client_cookie.c
+|4,39,215,11,1639751572,"~/web_client_cookie.c"
+-'  107  7  ~/web_client_cookie.c
+|4,39,107,7,1639747786,"~/web_client_cookie.c"
+-'  107  7  ~/web_client_cookie.c
+|4,39,107,7,1639744960,"~/web_client_cookie.c"
+-'  293  0  ~/web_client_cookie.c
+|4,39,293,0,1639744715,"~/web_client_cookie.c"
+-'  293  0  ~/web_client_cookie.c
+|4,39,293,0,1639744715,"~/web_client_cookie.c"
+-'  293  0  ~/web_client_cookie.c
+|4,39,293,0,1639740058,"~/web_client_cookie.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639732627,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639732627,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639732627,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639732627,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639732627,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639732627,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639732627,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639732627,"~/web_server.c"
 -'  293  0  ~/web_client_cookie.c
 |4,39,293,0,1639726197,"~/web_client_cookie.c"
+-'  293  0  ~/web_client_cookie.c
+|4,39,293,0,1639726197,"~/web_client_cookie.c"
+-'  1  0  ~/web_client_cookie.c
+|4,39,1,0,1639726180,"~/web_client_cookie.c"
+-'  1  0  ~/web_client_cookie.c
+|4,39,1,0,1639726180,"~/web_client_cookie.c"
+-'  1  0  ~/web_client_cookie.c
+|4,39,1,0,1639726180,"~/web_client_cookie.c"
+-'  1  0  ~/web_client_cookie.c
+|4,39,1,0,1639726180,"~/web_client_cookie.c"
 -'  1  0  ~/web_client_cookie.c
 |4,39,1,0,1639726180,"~/web_client_cookie.c"
 -'  262  0  ~/web_server.c
 |4,39,262,0,1639725841,"~/web_server.c"
 -'  262  0  ~/web_server.c
 |4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  262  0  ~/web_server.c
+|4,39,262,0,1639725841,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
+-'  1  0  ~/web_server.c
+|4,39,1,0,1639725815,"~/web_server.c"
 -'  1  0  ~/web_server.c
 |4,39,1,0,1639725815,"~/web_server.c"
 -'  1  0  ~/web_server.c
@@ -79,198 +189,108 @@
 |4,39,1,0,1639725198,"/network_programming"
 -'  1  0  /network_programming
 |4,39,1,0,1639725198,"/network_programming"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639725163,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639725163,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639725163,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639725163,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639725163,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639725163,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639725163,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639725163,"/web_client_cookie.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  1  0  /web_server.c
-|4,39,1,0,1639725096,"/web_server.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  293  0  /web_client_cookie.c
-|4,39,293,0,1639724158,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  1  0  /web_client_cookie.c
-|4,39,1,0,1639724064,"/web_client_cookie.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
--'  262  0  /web_server.c
-|4,39,262,0,1639724043,"/web_server.c"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
+-'  1  0  /network_programming
+|4,39,1,0,1639725198,"/network_programming"
 
 # History of marks within files (newest to oldest):
 
 > ~/web_client_cookie.c
-	*	1639726195	0
-	"	293	0
-	^	293	0
-	.	292	1
+	*	1639751569	0
+	"	215	11
+	^	215	12
+	.	215	12
 	+	292	1
+	+	79	0
+	+	78	9
+	+	79	2
+	+	78	9
+	+	79	1
+	+	214	12
+	+	212	13
+	+	203	9
+	+	204	0
+	+	205	0
+	+	206	17
+	+	207	21
+	+	208	17
+	+	210	17
+	+	211	4
+	+	212	13
+	+	213	0
+	+	215	12
+	+	216	12
+	+	215	12
 
 > ~/web_server.c
-	*	1639725839	0
+	*	1639732619	0
 	"	262	0
 	^	262	0
 	.	263	0
